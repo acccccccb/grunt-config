@@ -1,0 +1,13 @@
+## log
+log/
+out/
+## idea
+.idea/**
+*.iml
+## svn
+.svn/
+## maven
+target/
+node_modules/**
+web/**
+.idea
