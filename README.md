@@ -2,8 +2,9 @@
 My grunt config file
 #### 安装教程
 
-1. npm install
-2. npm grunt build
+1. npm install -g grunt-cli
+2. npm install
+3. grunt build
 
 #### 使用说明
 执行：grunt start
